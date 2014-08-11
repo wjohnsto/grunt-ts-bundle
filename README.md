@@ -8,7 +8,7 @@ A grunt task for running [ts-bundle](https://github.com/Platypi/ts-bundle)
 ```js
 grunt.initConfig({
   bundle: {
-    options: {
+    main: {
         rootModule: 'plat',
         license: './license.txt',
         version: '<%= pkg.version %>',

@@ -15,7 +15,10 @@
     "ts",
     "bundle"
   ],
-  "author": "William Johnston",
+  "author": {
+    "name": "William Johnston",
+    "url": "https://github.com/wjohnsto"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/wjohnsto/grunt-ts-bundle/issues"

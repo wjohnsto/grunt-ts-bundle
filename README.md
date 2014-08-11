@@ -17,7 +17,8 @@ grunt.initConfig({
             './out.ts'
         ]
     }
-  }
+  },
+  pkg: grunt.file.readJSON('package.json')
 });
 
 grunt.loadNpmTasks('grunt-ts-bundle');

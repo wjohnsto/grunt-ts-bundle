@@ -1,0 +1,27 @@
+{
+  "name": "grunt-ts-bundle",
+  "version": "0.0.0",
+  "description": "A grunt task for running ts-bundle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wjohnsto/grunt-ts-bundle.git"
+  },
+  "keywords": [
+    "grunt",
+    "ts",
+    "bundle"
+  ],
+  "author": "William Johnston",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wjohnsto/grunt-ts-bundle/issues"
+  },
+  "homepage": "https://github.com/wjohnsto/grunt-ts-bundle",
+  "dependencies": {
+    "ts-bundle": "0.0.3"
+  }
+}

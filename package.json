@@ -1,6 +1,6 @@
 {
   "name": "grunt-ts-bundle",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A grunt task for running ts-bundle",
   "main": "index.js",
   "scripts": {

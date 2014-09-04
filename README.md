@@ -15,7 +15,10 @@ grunt.initConfig({
         src: './index.html',
         dest: [
             './out.ts'
-        ]
+        ],
+        preSave: function (data, done) {
+            done(data);
+        }
     }
   }
 });

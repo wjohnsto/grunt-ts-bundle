@@ -20,7 +20,8 @@ grunt.initConfig({
             done(data);
         }
     }
-  }
+  },
+  pkg: grunt.file.readJSON('package.json')
 });
 
 grunt.loadNpmTasks('grunt-ts-bundle');

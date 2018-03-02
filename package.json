@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/wjohnsto/grunt-ts-bundle",
   "dependencies": {
-    "ts-bundle": "^0.1.2"
+    "ts-bundle": "^0.2.0"
   }
 }
